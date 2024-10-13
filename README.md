@@ -1,4 +1,6 @@
-# Dumping-and-Cracking-SAM-Hashes-to-Extract-Plaintext-Passwords
+# Dumping-and-Cracking-SAM-Hashes-to-Extract-Plaintext-Passwords 
+
+# Muhammad Fakhri 09011282126079 SK 7A
 Dumping-and-Cracking-SAM-Hashes-to-Extract-Plaintext-Passwords
 
 Buka Command prompt sebagai admin kemudian ketik wmic useraccount get name,sid dan tekan enter, setelah mengenter perintah tersebut akan menampilkan tampilan seperti dibawah
