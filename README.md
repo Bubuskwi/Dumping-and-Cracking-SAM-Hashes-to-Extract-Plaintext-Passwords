@@ -34,6 +34,7 @@ setelahnya pilih crack dan tunggu hingga prosesnya selesai
 
 setelah selesai maka ophcrack akan menampilkan password yang tersedia
 ![Cuplikan layar 2024-10-13 135224](https://github.com/user-attachments/assets/a5a27971-bae5-4b5a-bc95-a2021b7c2db0)
-saya tidak memakai password diwindows saya tetapi menggunakan pin maka outputnya not found
+Windows versi terbaru (sejak Windows Vista dan Windows 7) secara default tidak lagi menyimpan hash LM karena kurang aman. Jika kamu mencoba memecahkan password dari sistem yang lebih baru, kemungkinan besar hash LM tidak ada.
+
 ![Cuplikan layar 2024-10-13 135604](https://github.com/user-attachments/assets/850b7a31-ede0-4509-ae41-68e9acead128)
 
